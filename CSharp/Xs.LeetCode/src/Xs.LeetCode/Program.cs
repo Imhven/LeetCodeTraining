@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Xs.LeetCode.Algorithms;
 
 namespace Xs.LeetCode
 {
@@ -9,6 +10,7 @@ namespace Xs.LeetCode
     {
         public static void Main(string[] args)
         {
+            new TwoSum().Test();
         }
     }
 }

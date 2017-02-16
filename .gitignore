@@ -1,0 +1,6 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/CSharp/Xs.LeetCode/src/Xs.LeetCode/obj/Debug/netcoreapp1.0
+/CSharp/Xs.LeetCode/src/Xs.LeetCode/bin/Debug/netcoreapp1.0
