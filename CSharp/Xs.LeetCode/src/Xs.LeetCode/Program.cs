@@ -11,7 +11,8 @@ namespace Xs.LeetCode
         public static void Main(string[] args)
         {
             //new TwoSum().Test();
-            new AddTwoNumbers().Test();
+            //new AddTwoNumbers().Test();    
+            new LongestSubstringWithoutRepeatingCharacters().Test();
         }
     }
 }
