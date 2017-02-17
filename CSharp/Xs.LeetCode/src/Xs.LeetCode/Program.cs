@@ -10,7 +10,8 @@ namespace Xs.LeetCode
     {
         public static void Main(string[] args)
         {
-            new TwoSum().Test();
+            //new TwoSum().Test();
+            new AddTwoNumbers().Test();
         }
     }
 }
