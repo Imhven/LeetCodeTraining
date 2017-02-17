@@ -12,7 +12,8 @@ namespace Xs.LeetCode
         {
             //new TwoSum().Test();
             //new AddTwoNumbers().Test();    
-            new LongestSubstringWithoutRepeatingCharacters().Test();
+            //new LongestSubstringWithoutRepeatingCharacters().Test();
+            new MedianOfTwoSortedArrays().Test();
         }
     }
 }
